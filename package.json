@@ -1,6 +1,6 @@
 {
   "name": "toast-xu",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "A simple JavaScript toast for web.",
   "main": "index.js",
   "scripts": {
